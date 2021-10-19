@@ -9,6 +9,6 @@ This week covers:
 - Objects
 - Block Scope
 - Passing arguments by value and by reference 
-- Looping Arrays and Ojbjects
-- Adding item, removeing item from array, object
+- Looping Arrays and Objects
+- Adding item, removing item from array, object
 - Simple PacMan coding exercise 
